@@ -1,1 +1,1 @@
-# CS225_Data_Mining_Solar_Power
+# CS225_Data_Mining_Solar_Power_Generation
