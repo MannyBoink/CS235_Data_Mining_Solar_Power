@@ -10,7 +10,7 @@ The implemented algorithms are:
 5: A proposed Deep Neural Network Architecture  
 
 The code can be run using Colaboratory Notebooks by following the steps given below:  
-1: Import any one of the notebooks to Colaboratory.  
+1: Import any one of the notebooks to Google Colaboratory.  
 2: Add the Dataset.xlsx file to your drive account to which you will have to allow Colab access when running the notebook.  
 3: Run all the cells in the colab notebook and watch the magic unfold! :)
 
