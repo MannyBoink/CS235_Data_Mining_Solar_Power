@@ -11,7 +11,7 @@ The implemented algorithms are:
 
 The code can be run using Colaboratory Notebooks by following the steps given below:  
 1: Import any one of the notebooks to Colaboratory.  
-2: Add the Dataset.xlsx file to your drive account to which you will have to allow Colab access when running the notebook.
+2: Add the Dataset.xlsx file to your drive account to which you will have to allow Colab access when running the notebook.  
 3: Run all the cells in the colab notebook and watch the magic unfold! :)
 
 Contributors:  
@@ -21,5 +21,5 @@ Sumedha Girish Atreysa (Support Vector Regression)
 Naveen Devadi (LASSO)  
 Tejas Milind Deshpande (RANSAC)
 
-University of California, Riverside
+University of California, Riverside  
 CS 235 Data Mining Techniques
